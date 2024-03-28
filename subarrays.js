@@ -1,4 +1,3 @@
-//given an array and a chunk size, divide the array  into sub arrays where each subarray is of the length the chunk size
 
 //([1,2,3,4,5,6,7]3) == ([1,2,3], [3,4,5], [6,7])
 //([1,2,3,4,5,6,7]1) == ([1][2] [3],[4] [5] [6] [7])
